@@ -1,3 +1,6 @@
+#Code adapted from code written by Laurence lmoroney in
+#(https://colab.research.google.com/github/lmoroney/dlaicourse/blob/master/TensorFlow%20In%20Practice/Course%203%20-%20NLP/NLP_Week4_Exercise_Shakespeare_Answer.ipynb#scrollTo=PRnDnCW-Z7qv)
+
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.layers import Embedding, LSTM, Dense, Dropout, Bidirectional
 from tensorflow.keras.preprocessing.text import Tokenizer
