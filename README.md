@@ -1,4 +1,4 @@
-# Chinese-Folk-Song-Lyrics-Generator-using-LSTM
+# Chinese-Folk-Song-Lyrics-Generator
 Generate random Chinese Folk song style lyrics starting with a user-defined-seed. Model built using Tensorflow and Keras, inspired by the course "Natural Language Processing in Tensorflow taught by Laurence lmoroney on Coursera.
 
 Training Data is lyrics1.txt, where I gather about 30 folk song lyrics. I have preprocessed the training data using Jieba, an API that splits Chinese sentences into words. 
